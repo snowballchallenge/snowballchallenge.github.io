@@ -292,6 +292,12 @@ ul li a:hover {
 
 }
 
+.form-headings {
+    
+    width: 50%; 
+    margin: 0 auto;
+}
+
 .form-headings h2 {
     font-weight: 900;
     font-size: 3.5rem;
